@@ -90,9 +90,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [your.email@example.com](mailto:mohdaqdasasim@gmail.com)
+Your Name - [mohdaqdasasim@gmail.com](mailto:mohdaqdasasim@gmail.com)
 
-Project Link: [https://github.com/YourUsername/NewTab](https://github.com/MohdAqdasAsim/Minimalist-New-Tab)
+Project Link: [https://github.com/MohdAqdasAsim/Minimalist-New-Tab](https://github.com/MohdAqdasAsim/Minimalist-New-Tab)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
